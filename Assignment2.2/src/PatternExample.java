@@ -17,7 +17,7 @@ public class PatternExample {
     		   }
     		   else
     		   {
-    			   System.out.print(" ");
+    			   System.out.print("_");
     		   }
     	   }
     	   System.out.println(" ");
